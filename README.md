@@ -13,8 +13,6 @@ Java 8, Spring boot and maven
 1. to build : > mvn clean install
 2. to run 	: > mvn spring-boot:run 
 
-### Web Url : [FizzBuzz API Web Url](https://fizzbuzz-avs.herokuapp.com/swagger-ui.html#!/fizz-buzz-controller)
-
 ### Examples
 
 #### Successful requests
