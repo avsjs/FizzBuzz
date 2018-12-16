@@ -13,6 +13,9 @@ Java 8, Spring boot and maven
 1. to build : > mvn clean install
 2. to run 	: > mvn spring-boot:run 
 
+### Swagger Url for accessing application
+- https://fizzbuzz-avsjs.herokuapp.com/swagger-ui.html
+
 ### Examples
 
 #### Successful requests
